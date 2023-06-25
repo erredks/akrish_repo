@@ -1,0 +1,47 @@
+.App{
+  margin: 20px 50px;
+  color: rgb(20, 20, 115);
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left, #list{
+  display: flex;
+  justify-content: space-between;
+}
+
+li{
+  list-style-type: none;
+  margin: 0 18px;
+}
+
+#btn{
+  background-color: green;
+  color: white;
+}
+
+.lorem{
+  margin: 20px 0;
+  font-size: x-large;
+}
+.coloredback{
+  height: 300px;
+  background-color: rgb(182, 178, 171);
+  margin-bottom: 36px;
+}
+
+/* .car{
+        position: 'absolute';
+        display: 'block';
+        z-index: -2;
+        min-height: '100%';
+        opacity: 0;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+  
+} */
